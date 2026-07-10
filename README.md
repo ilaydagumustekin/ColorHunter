@@ -45,10 +45,9 @@ As the game progresses, both the color distinction and the available time decrea
 ## Screenshots
 
 <p align="center">
-  <img src="Ekran Resmi 2026-07-11 00.17.55">
-  <img src="Ekran Resmi 2026-07-11 00.18.23">
+    <img src="./Ekran%20Resmi%202026-07-11%2000.17.55.png" width="260" alt="Gameplay">
+    <img src="./Ekran%20Resmi%202026-07-11%2000.18.23.png" width="260" alt="Game Over">
 </p>
-
 ---
 
 ## Technical Details
